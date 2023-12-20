@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WasteFoodManagment</string>
+    <string-array name="category">
+        <item>DONOR</item>
+        <item>WORKER</item>
+    </string-array>
+</resources>
